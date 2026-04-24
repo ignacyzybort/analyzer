@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly.graph_objects
+plotly.express
+make_subplots
+json
+io
+numpy
+re
